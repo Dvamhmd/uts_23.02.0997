@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UTS_23.02.0997</string>
+    <string name="start">Mulai</string>
+    <string name="database_0997">Database 0997</string>
+    <string name="name">Nama</string>
+    <string name="age">Usia</string>
+    <string name="male">Pria</string>
+    <string name="female">Wanita</string>
+    <string name="submit">Kirim</string>
+    <string name="form_title">Form Registrasi</string>
+    <string name="input_your_name">Masukkan nama</string>
+    <string name="input_your_age">Masukkan usia</string>
+    <string name="choose_gender">Pilih jenis kelamin</string>
+    <string name="back">kembali</string>
+    <string name="gender_result">Kelamin</string>
+    <string name="name_result">Nama</string>
+    <string name="age_result">Umur</string>
+    <string name="result">Hasil</string>
+    <string name="error_message">Isi semua kolom dengan benar!</string>
+    <string name="string">string</string>
+    <string name="unknown">Tidak diketahui</string>
+    <string name="result_name">Nama : %1$s</string>
+    <string name="result_age">Umur : %1$s</string>
+    <string name="result_gender">Kelamin : %1$s</string>
+    <string name="value">:</string>
+</resources>
